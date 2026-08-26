@@ -1,0 +1,11 @@
+title: BOOKODON
+description: BOOKODON公式サポート
+lang: ja-JP
+url: https://bookodon.brave-link.co.jp
+baseurl: ""
+theme: minima
+header_pages:
+  - support.md
+  - privacy.md
+exclude:
+  - README.md
